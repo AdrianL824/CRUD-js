@@ -4,6 +4,31 @@
       "nombre": "Adrian",
       "email": "Adrian@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "adrian",
+      "email": "a.l@gmail.com",
+      "id": "47de552b-6384-4f80-bf4a-61b20df08169"
+    },
+    {
+      "nombre": "Juan",
+      "email": "juan@gmail.com",
+      "id": "654f456c-4398-4bd3-a48a-c02d2d9a1d95"
+    },
+    {
+      "nombre": "Maria",
+      "email": "Maria@gmail.com",
+      "id": "a30a5dfe-1e08-4bfe-8884-8d4c1a8eba7d"
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Pedro@gmail.com",
+      "id": "8ed04935-b359-4d16-a74c-f8a1b294e46f"
+    },
+    {
+      "nombre": "Jose",
+      "email": "jose@gmail.com",
+      "id": "e45f4479-782f-4328-9a66-8812b1091c67"
     }
   ]
 }
